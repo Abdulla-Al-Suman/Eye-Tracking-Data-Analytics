@@ -6,11 +6,8 @@ csv_data <- read.csv(file = 'FDs_FirstSecond.csv') # read from working directory
 
 # Data extraction and transpose
 Brain_experts<- c(5, 6, 7, 9, 10, 12, 18, 19, 24, 26, 28, 30, 32, 35, 39)
-#Brain-Experts(15): NMQ1 NMQ2  NMQ3, NMQ5, NMQ6, R02, R08 R09, R14 R16, R18, R21 R23, R26, R31
-Other_experts<- c(11, 15, 20, 21, 25, 27, 29, 33, 34, 36, 37) 
-#Other-experts(11):R01, R05,R10, R11, R15,R17,R20,R24 R25 R28, R29 
+Other_experts<- c(11, 15, 20, 21, 25, 27, 29, 33, 34, 36, 37)  
 Registrars<- c(13, 14, 17, 23, 31)
-#Registrars(5):R03 R04 R07 R13, R22
 Naives<-40:65
 All_radiologists<-c(Brain_experts,Other_experts,Registrars)
 
