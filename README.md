@@ -1,4 +1,4 @@
-# Eye-Tracking-on-Brain-MRI
+# Eye-Tracking-Data Analytics
 
 This repository contains the reference code for computing 3D image registration based on the following paper:
 
