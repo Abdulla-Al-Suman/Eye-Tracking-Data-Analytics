@@ -1,6 +1,10 @@
 # Eye-Tracking-on-Brain-MRI
 
-Spatial and time domain analysis of eye-tracking data during screening of brain magnetic resonance images
+This repository contains the reference code for computing 3D image registration based on the following paper:
+
+Abdulla Al Suman, Carlo Russo, Ann Carrigan, Patrick Nalepka, Benoit Liquet-Weiland, Robert Ahadizad Newport, Poonam Kumari, Antonio Di Ieva; 
+Spatial and time domain analysis of eye-tracking data during screening of brain magnetic resonance images; 
+PLOS ONE, 2021
 
 This code should accompany the paper by the same name and is tested on Python 3.6.9 and R 4.1.1. Three analyses are referenced in the paper and steps to reproduce their findings are below.
 
